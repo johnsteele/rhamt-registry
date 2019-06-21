@@ -1,1 +1,0 @@
-# rhamt-registry
